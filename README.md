@@ -370,4 +370,3 @@ deactivate
   * [Kendrick Calata](https://github.com/kcalata) - His [Linux Server Configuration](https://github.com/kcalata/Linux-Server-Configuration/blob/master/README.md) instructions provided the baseline for these instructions.
   * [Corey Schafer](https://github.com/CoreyMSchafer) - YouTube video on [deploying an application to a Linux Server](https://www.youtube.com/watch?v=Sa_kQheCnds)
   * [Kyle Robinson Young](https://github.com/shama) - YouTube video on [using Git to deploy code to a remote server](https://www.youtube.com/watch?v=9qIK8ZC9BnU).
-  * 
