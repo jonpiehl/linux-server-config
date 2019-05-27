@@ -289,7 +289,7 @@ pip install requests
 pip install --upgrade oauth2client
 pip install sqlalchemy
 sudo apt-get install libpq-dev
-pip install pyscopg2
+pip install psycopg2
 deactivate
 ```
 
