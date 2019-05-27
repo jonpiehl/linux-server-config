@@ -14,7 +14,8 @@ A server has been setup using these instructions at the destination below:
 
 ### Get a server
 
-1. Create a Ubuntu Server on [AWS Lightsail](https://lightsail.aws.amazon.com/)
+Create a Ubuntu Server on [AWS Lightsail](https://lightsail.aws.amazon.com/)
+
    * Click the link above and either login to an AWS account or create a new AWS account.
    * Once logged in, click the **Create instance** button.
    * Change the **AWS Region and Availability Zone** if you'd like. It doesn't mater what region or availability zone you select.
