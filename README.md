@@ -44,7 +44,7 @@ Rather than using a password to login to the server, AWS requires users to login
 It's good practice to update the default installed packages when you login to the server for the first time. Run the following command while logged into the server:
 
 ```
-sudo apt-get update && sudo apt-get upgrade
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
 ```
 
 ### Change the SSH port
